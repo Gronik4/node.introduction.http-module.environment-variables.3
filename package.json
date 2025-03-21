@@ -1,0 +1,15 @@
+{
+  "name": "node.introduction.http-module.environment-variables.3",
+  "version": "1.0.0",
+  "description": "Курс Node.js. Блок введение в Node.js. Тема: Http module. Переменные окружения. Задачи №1.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node -r dotenv/config index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
